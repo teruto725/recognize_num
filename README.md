@@ -1,6 +1,6 @@
 # recognize_num
 Chainerの勉強のため数字の認識を行う。  
-##ファイル構成  
+## ファイル構成  
 1. num_learn.ipynb    
 mnistデータセットを読み込んでニューラルネットワークを作成する。  
 2. recognize_picture.ipynb  
