@@ -1,5 +1,6 @@
 # recognize_num
-Chainerの勉強のため数字の認識を行う。  
+画像認識の勉強
+Google colabで作成
 ## ファイル構成  
 1. num_learn.ipynb    
 mnistデータセットを読み込んでニューラルネットワークを作成する。  
